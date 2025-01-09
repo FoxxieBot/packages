@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@foxxie/fuzzysearch": "^0.0.2",
-    "apollo-server-core": "^3.6.3",
+    "@apollo/server": "^4.0.0",
     "apollo-server-koa": "^3.6.3",
     "class-validator": "^0.13.2",
     "graphql": "15.8.0",
