@@ -95,7 +95,7 @@
         "colorette": "^2.0.16",
         "discord.js": "^13.6.0",
         "dotenv-cra": "^3.0.2",
-        "i18next": "^21.6.13",
+        "i18next": "^24.2.1",
         "ioredis": "^4.28.5",
         "lexure": "^0.17.0",
         "moment-timezone": "^0.5.34",
