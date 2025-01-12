@@ -41,7 +41,7 @@
     "@foxxie/eslint-config": "0.0.0",
     "@foxxie/stardrop": "^0.0.0",
     "@foxxie/types": "0.0.0",
-    "@octokit/types": "6.34.0",
+    "@octokit/types": "13.7.0",
     "@ruffpuff/celestia": "1.2.3",
     "@sapphire/framework": "next",
     "@sapphire/plugin-i18next": "2.3.0",
