@@ -1843,19 +1843,6 @@
   resolved "https://registry.yarnpkg.com/@sapphire/duration/-/duration-1.1.4.tgz#159139229052f620f597dac4c0b5fd4776c80957"
   integrity sha512-hxtuE8HvmWcRok2A10lJ+ic8qY0oYGTTn44XmESUYJYYSVJWmqlCH1LnNYi6Ul+LRjxNUfFQEL/TJS0GJ+8kew==
 
-"@sapphire/eslint-config@^4.3.3":
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/@sapphire/eslint-config/-/eslint-config-4.4.3.tgz#69ad19544013ebc706def60b8685fe21ef7a2b9b"
-  integrity sha512-QaCwb95aoNkqW1X2soeyUYdKlLM3vK01Z95N3XAk2v6z4sECclo28KJPVZzz7G06gXquwDvf0riOJ+uDU6PhrQ==
-  dependencies:
-    "@typescript-eslint/eslint-plugin" "^5.61.0"
-    "@typescript-eslint/parser" "^5.61.0"
-    eslint "^8.44.0"
-    eslint-config-prettier "^8.8.0"
-    eslint-plugin-prettier "^4.2.1"
-    prettier "^2.8.8"
-    typescript "^5.1.6"
-
 "@sapphire/eslint-config@^5.0.5":
   version "5.0.5"
   resolved "https://registry.yarnpkg.com/@sapphire/eslint-config/-/eslint-config-5.0.5.tgz#d7157789e4ad7d2490eb8acf5424c8498812bbda"
@@ -2466,7 +2453,7 @@
     natural-compare "^1.4.0"
     ts-api-utils "^1.3.0"
 
-"@typescript-eslint/eslint-plugin@^5.10.2", "@typescript-eslint/eslint-plugin@^5.12.0", "@typescript-eslint/eslint-plugin@^5.13.0", "@typescript-eslint/eslint-plugin@^5.17.0", "@typescript-eslint/eslint-plugin@^5.61.0":
+"@typescript-eslint/eslint-plugin@^5.10.2", "@typescript-eslint/eslint-plugin@^5.12.0", "@typescript-eslint/eslint-plugin@^5.13.0", "@typescript-eslint/eslint-plugin@^5.17.0":
   version "5.62.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-5.62.0.tgz#aeef0328d172b9e37d9bab6dbc13b87ed88977db"
   integrity sha512-TiZzBSJja/LbhNPvk6yc0JrX9XqhQ0hdh6M2svYfsHGejaKFIAGd9MQ+ERIMzLGlN/kZoYIgdxFV0PuljTKXag==
@@ -2508,7 +2495,7 @@
     "@typescript-eslint/visitor-keys" "8.18.0"
     debug "^4.3.4"
 
-"@typescript-eslint/parser@^5.10.2", "@typescript-eslint/parser@^5.12.0", "@typescript-eslint/parser@^5.13.0", "@typescript-eslint/parser@^5.17.0", "@typescript-eslint/parser@^5.61.0":
+"@typescript-eslint/parser@^5.10.2", "@typescript-eslint/parser@^5.12.0", "@typescript-eslint/parser@^5.13.0", "@typescript-eslint/parser@^5.17.0":
   version "5.62.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-5.62.0.tgz#1b63d082d849a2fcae8a569248fbe2ee1b8a56c7"
   integrity sha512-VlJEV0fOQ7BExOsHYAGrgbEiZoi8D+Bl2+f6V2RrXerRSylnp+ZBHmPvaIa8cz0Ajx7WO7Z5RqfgYg7ED1nRhA==
@@ -4380,7 +4367,7 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-prettier@^8.4.0, eslint-config-prettier@^8.5.0, eslint-config-prettier@^8.8.0:
+eslint-config-prettier@^8.4.0, eslint-config-prettier@^8.5.0:
   version "8.10.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.10.0.tgz#3a06a662130807e2502fc3ff8b4143d8a0658e11"
   integrity sha512-SM8AMJdeQqRYT9O9zguiruQZaN7+z+E4eAP9oiLNGKMtomwaB1E9dcgUD6ZAn/eQAb52USbvezbiljfZUhbJcg==
@@ -4420,7 +4407,7 @@ eslint-plugin-perfectionist@^4.6.0:
     "@typescript-eslint/utils" "^8.19.0"
     natural-orderby "^5.0.0"
 
-eslint-plugin-prettier@^4.0.0, eslint-plugin-prettier@^4.2.1:
+eslint-plugin-prettier@^4.0.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz#651cbb88b1dab98bfd42f017a12fa6b2d993f94b"
   integrity sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==
@@ -4461,7 +4448,7 @@ eslint-visitor-keys@^4.2.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-4.2.0.tgz#687bacb2af884fcdda8a6e7d65c606f46a14cd45"
   integrity sha512-UyLnSehNt62FFhSwjZlHmeokpRK59rcz29j+F1/aDgbkbRTk7wIc9XzdoasMUbRNKDM0qQt/+BJ4BrpFeABemw==
 
-eslint@^8.10.0, eslint@^8.12.0, eslint@^8.44.0, eslint@^8.57.0, eslint@^8.57.1, eslint@^8.8.0, eslint@^8.9.0:
+eslint@^8.10.0, eslint@^8.12.0, eslint@^8.57.0, eslint@^8.57.1, eslint@^8.8.0, eslint@^8.9.0:
   version "8.57.1"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.57.1.tgz#7df109654aba7e3bbe5c8eae533c5e461d3c6ca9"
   integrity sha512-ypowyDxpVSYpkXr9WPv2PAZCtNip1Mv5KTW0SCurXv/9iOpcrH9PaqUElksqEB6pChqHGDRCFTyrZlGhnLNGiA==
@@ -7412,7 +7399,7 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^2.5.1, prettier@^2.6.2, prettier@^2.8.2, prettier@^2.8.8:
+prettier@^2.5.1, prettier@^2.6.2, prettier@^2.8.2:
   version "2.8.8"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
   integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
@@ -8858,7 +8845,7 @@ typescript@^4.4.3, typescript@^4.5.5, typescript@^4.6.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
-typescript@^5.1.6, typescript@^5.4.2, typescript@^5.4.5, typescript@^5.7.2:
+typescript@^5.4.2, typescript@^5.4.5, typescript@^5.7.2:
   version "5.7.2"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.7.2.tgz#3169cf8c4c8a828cde53ba9ecb3d2b1d5dd67be6"
   integrity sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==
