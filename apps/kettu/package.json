@@ -28,7 +28,7 @@
     "@foxxie/stardrop": "^0.0.0",
     "@ruffpuff/utilities": "^4.0.0",
     "@sapphire/decorators": "^4.2.6",
-    "@sapphire/discord.js-utilities": "^4.8.2",
+    "@sapphire/discord.js-utilities": "^7.3.2",
     "@sapphire/utilities": "^3.3.0",
     "@skyra/jaro-winkler": "^1.0.0",
     "discord.js": "^13.6.0",
