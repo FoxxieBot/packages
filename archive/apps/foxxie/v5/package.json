@@ -71,7 +71,7 @@
     "license": "MIT",
     "dependencies": {
         "@aero/sanitizer": "^1.2.0",
-        "@favware/graphql-pokemon": "6.5.0",
+        "@favware/graphql-pokemon": "8.7.0",
         "@foxxie/fetch": "0.0.0",
         "@foxxie/lock-queue": "0.1.0",
         "@influxdata/influxdb-client": "^1.23.0",
