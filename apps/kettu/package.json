@@ -44,7 +44,7 @@
     "@octokit/types": "6.34.0",
     "@ruffpuff/celestia": "1.2.3",
     "@sapphire/framework": "next",
-    "@sapphire/plugin-i18next": "2.3.0",
+    "@sapphire/plugin-i18next": "7.1.3",
     "@sapphire/plugin-logger": "2.2.0",
     "@sapphire/ts-config": "3.3.2",
     "@skyra/saelem": "3.0.9",
