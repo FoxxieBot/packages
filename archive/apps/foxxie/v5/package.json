@@ -107,7 +107,7 @@
         "@foxxie/eslint-config": "0.0.0",
         "@foxxie/types": "0.0.0",
         "@types/aero__sanitizer": "1.2.0",
-        "@types/bull": "3.15.8",
+        "@types/bull": "4.10.4",
         "@types/ioredis": "4.28.8",
         "@types/node": "17.0.0",
         "@types/skia-canvas": "0.9.2",
