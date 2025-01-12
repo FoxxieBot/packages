@@ -12,16 +12,16 @@
     "Aria <ArEo#1245>"
   ],
   "dependencies": {
-    "@aero/centra": "^1.0.6",
+    "@aero/centra": "^1.0.8",
     "@aero/require": "^1.0.3",
-    "@aero/tags": "^3.0.10",
+    "@aero/tags": "^3.0.14",
     "@foxxie/md-tags": "^1.0.1",
     "@foxxie/tails": "^0.0.4",
-    "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0",
     "foxxie": "^0.0.7-2",
     "lodash": "^4.17.21",
     "mongoose": "^5.12.3",
-    "novelcovid": "^3.0.0"
+    "novelcovid": "^3.0.2"
   }
 }
