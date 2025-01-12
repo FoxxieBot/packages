@@ -72,7 +72,7 @@
   },
   "devDependencies": {
     "@foxxie/eslint-config": "^0.0.2",
-    "@types/eslint": "^8",
+    "@types/eslint": "^9.6.1",
     "@types/gradient-string": "^1.1.2",
     "@types/ioredis": "5.0.0",
     "@types/lodash": "^4.14.199",
