@@ -41,7 +41,7 @@
     "@ruffpuff/eslint-config": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "^5.13.0",
-    "eslint": "^8.10.0"
+    "eslint": "^9.18.0"
   },
   "devDependencies": {
     "@types/node": "17.0.15",
