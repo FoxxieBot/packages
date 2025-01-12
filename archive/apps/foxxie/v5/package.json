@@ -100,7 +100,7 @@
         "lexure": "^0.17.0",
         "moment-timezone": "^0.5.34",
         "mongodb": "^3.7.3",
-        "skia-canvas": "^0.9.29",
+        "skia-canvas": "^2.0.1",
         "typeorm": "^0.2.45"
     },
     "devDependencies": {
