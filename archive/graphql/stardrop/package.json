@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@foxxie/eslint-config": "0.0.0",
-    "@graphql-codegen/cli": "2.6.2",
+    "@graphql-codegen/cli": "5.0.3",
     "@graphql-codegen/typescript": "2.4.7",
     "@graphql-codegen/typescript-resolvers": "2.5.4",
     "@types/koa": "2.13.4",
