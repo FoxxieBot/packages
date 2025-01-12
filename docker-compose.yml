@@ -29,7 +29,7 @@ services:
          target: /opt/Lavalink/application.yml
     depends_on:
       - redis
-    image: fredboat/lavalink:3.7.13-alpine
+    image: fredboat/lavalink:4.0.8-alpine
     networks:
       - foxxie
     ports:
