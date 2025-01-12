@@ -45,7 +45,7 @@
     "@sapphire/discord.js-utilities": "^7.0.2",
     "@sapphire/framework": "^4.6.1",
     "@sapphire/lexure": "^1.1.5",
-    "@sapphire/plugin-editable-commands": "^3.0.3",
+    "@sapphire/plugin-editable-commands": "^4.0.4",
     "@sapphire/plugin-i18next": "^6.0.1",
     "@sapphire/plugin-logger": "^3.0.6",
     "@sapphire/plugin-subcommands": "4.2.1",
