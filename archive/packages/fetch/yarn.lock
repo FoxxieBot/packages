@@ -418,11 +418,6 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.48.0.tgz#642633964e217905436033a2bd08bf322849b7fb"
   integrity sha512-ZSjtmelB7IJfWD2Fvb7+Z+ChTIKWq6kjda95fLcQKNS5aheVHn4IkfgRQE3sIIzTcSLwLcLZUD9UBt+V7+h+Pw==
 
-"@fastify/busboy@^2.0.0":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@fastify/busboy/-/busboy-2.1.1.tgz#b9da6a878a371829a0502c9b6c1c143ef6663f4d"
-  integrity sha512-vBZP4NlzfOlerQTnba4aqZoMhE/a9HY7HRqoOPaETQcSQuWEIyZMHGfVu6w9wGtGK5fED5qRs2DteVCjOH60sA==
-
 "@humanwhocodes/config-array@^0.11.10":
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.10.tgz#5a3ffe32cc9306365fb3fd572596cd602d5e12d2"
@@ -3828,12 +3823,10 @@ undici-types@~6.19.2:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.19.8.tgz#35111c9d1437ab83a7cdc0abae2f26d88eda0a02"
   integrity sha512-ve2KP6f/JnbPBFyobGHuerC9g1FYGn/F8n1LWTwNxCEzd6IfqTwUQcNXgEtmmQ6DlRrC1hrSrBnCZPokRrDHjw==
 
-undici@^5.0.0:
-  version "5.28.4"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-5.28.4.tgz#6b280408edb6a1a604a9b20340f45b422e373068"
-  integrity sha512-72RFADWFqKmUb2hmmvNODKL3p9hcB6Gt2DOQMis1SEBaV6a4MH8soBvzg+95CYhCKPFedut2JY9bMfrDl9D23g==
-  dependencies:
-    "@fastify/busboy" "^2.0.0"
+undici@^7.2.1:
+  version "7.2.1"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-7.2.1.tgz#897dc535f78bee62217efc0c5f50ea6b5f078b64"
+  integrity sha512-U2k0XHLJfaciARRxDcqTk2AZQsGXerHzdvfCZcy1hNhSf5KCAF4jIQQxL+apQviOekhRFPqED6Of5/+LcUSLzQ==
 
 update-browserslist-db@^1.1.1:
   version "1.1.1"
