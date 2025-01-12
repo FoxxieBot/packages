@@ -31,12 +31,12 @@
   "devDependencies": {
     "@ruffpuff/eslint-config": "1.1.0",
     "@ruffpuff/ts": "^1.0.4",
-    "@types/i18next-fs-backend": "^1.1.2",
+    "@types/i18next-fs-backend": "^1.1.5",
     "discord-api-types": "^0.31.2"
   },
   "dependencies": {
-    "@discordjs/collection": "^0.6.0",
-    "i18next": "^21.6.16",
-    "i18next-fs-backend": "^1.1.4"
+    "@discordjs/collection": "^0.8.0",
+    "i18next": "^21.10.0",
+    "i18next-fs-backend": "^1.2.0"
   }
 }
