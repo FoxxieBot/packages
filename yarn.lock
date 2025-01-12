@@ -2022,14 +2022,6 @@
   resolved "https://registry.yarnpkg.com/@sapphire/timestamp/-/timestamp-1.0.5.tgz#398540f84d149ba0d6535c73d86c28f801411a3e"
   integrity sha512-oNwWyNdbt5wm4aYZvlHl1+64U3g0xrFmRIHsnER7RgMxNnp/wmAE4yTK2oUHeadg3t4V9iYctPAQCF+aINke4g==
 
-"@sapphire/ts-config@^3.3.4":
-  version "3.3.4"
-  resolved "https://registry.yarnpkg.com/@sapphire/ts-config/-/ts-config-3.3.4.tgz#dabab6a3c1a862ea753b8d4e67a6ac07e9f5d7a7"
-  integrity sha512-mWEUxCXh3cHKI7C8HJ049exVTMNaq+A/lJEDfM5ENSQ/OOZHd5DdmXn2jrYqFWbTRCHa0Vp2FAmACWBwePsBtg==
-  dependencies:
-    tslib "^2.3.1"
-    typescript "^4.6.3"
-
 "@sapphire/ts-config@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@sapphire/ts-config/-/ts-config-5.0.1.tgz#b2db17f25c87526c967e34030c7b46bc34096b88"
@@ -8853,7 +8845,7 @@ typescript@5.5.4:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.5.4.tgz#d9852d6c82bad2d2eda4fd74a5762a8f5909e9ba"
   integrity sha512-Mtq29sKDAEYP7aljRgtPOpTvOfbwRWlS6dPRzwjdE+C0R4brX/GUyhHSecbHMFLNBLcJIPt9nl9yG5TZ1weH+Q==
 
-typescript@^4.4.3, typescript@^4.5.5, typescript@^4.6.3:
+typescript@^4.4.3, typescript@^4.5.5:
   version "4.9.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
