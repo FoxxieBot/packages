@@ -18,7 +18,7 @@
     "@graphql-codegen/typescript": "2.4.7",
     "@graphql-codegen/typescript-resolvers": "2.5.4",
     "@types/koa": "2.13.4",
-    "eslint": "8.11.0",
+    "eslint": "9.18.0",
     "prettier": "2.5.1",
     "tsup": "5.12.1"
   },
