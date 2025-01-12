@@ -53,6 +53,6 @@
   "dependencies": {
     "@foxxie/eslint-config": "^0.0.0",
     "@ruffpuff/utilities": "^4.0.0",
-    "undici": "^4.15.0"
+    "undici": "^7.2.1"
   }
 }
