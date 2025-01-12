@@ -22,7 +22,7 @@
     "@skyra/discord-components-core": "^3.4.0",
     "@skyra/discord-components-react": "^3.4.0",
     "ahooks": "^3.7.0",
-    "clsx": "^1.2.1",
+    "clsx": "^2.1.1",
     "firebase": "^9.9.1",
     "js-cookie": "^3.0.1",
     "next": "12.2.5",
