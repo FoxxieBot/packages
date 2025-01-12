@@ -38,13 +38,13 @@
     "yarn"
   ],
   "dependencies": {
-    "@ruffpuff/eslint-config": "^1.0.1",
+    "@ruffpuff/eslint-config": "^1.1.0",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "^5.13.0",
-    "eslint": "^8.10.0"
+    "eslint": "^8.57.1"
   },
   "devDependencies": {
-    "@types/node": "17.0.15",
+    "@types/node": "17.0.45",
     "typescript": "4.6.2"
   }
 }
