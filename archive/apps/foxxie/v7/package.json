@@ -55,7 +55,7 @@
     "@sapphire/time-utilities": "^1.7.10",
     "@sapphire/type": "^2.4.3",
     "@sapphire/utilities": "^3.6.2",
-    "@sentry/node": "^7.66.0",
+    "@sentry/node": "^8.48.0",
     "colorette": "^2.0.16",
     "discord.js": "^14.13.0",
     "dotenv-cra": "^3.0.2",
