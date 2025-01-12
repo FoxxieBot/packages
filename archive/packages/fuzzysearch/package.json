@@ -50,7 +50,7 @@
   },
   "private": false,
   "dependencies": {
-    "@discordjs/collection": "^0.5.0",
+    "@discordjs/collection": "^2.1.1",
     "@skyra/jaro-winkler": "^1.0.0"
   }
 }
