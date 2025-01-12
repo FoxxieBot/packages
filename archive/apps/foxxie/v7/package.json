@@ -59,7 +59,7 @@
     "colorette": "^2.0.16",
     "discord.js": "^14.13.0",
     "dotenv-cra": "^3.0.2",
-    "gradient-string": "^2.0.2",
+    "gradient-string": "^3.0.0",
     "i18next": "^23.5.1",
     "ioredis": "^5.0.3",
     "lexure": "^0.17.0",
