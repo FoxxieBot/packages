@@ -37,7 +37,7 @@
     "tinycolor2": "^1.4.2"
   },
   "devDependencies": {
-    "@favware/graphql-pokemon": "6.5.0",
+    "@favware/graphql-pokemon": "8.7.0",
     "@foxxie/eslint-config": "0.0.0",
     "@foxxie/stardrop": "^0.0.0",
     "@foxxie/types": "0.0.0",
