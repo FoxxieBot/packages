@@ -50,7 +50,7 @@
     "@sapphire/stopwatch": "^1.4.1",
     "@sapphire/utilities": "^3.6.2",
     "@sentry/node": "^7.0.0",
-    "canvas-constructor": "^6.0.0",
+    "canvas-constructor": "^7.0.2",
     "colorette": "^2.0.16",
     "discord-api-types": "0.36.1",
     "discord.js": "^13.6.0",
