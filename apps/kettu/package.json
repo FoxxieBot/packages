@@ -23,7 +23,7 @@
     "#utils/APIs": "./dist/lib/util/APIs/index.js"
   },
   "dependencies": {
-    "@discordjs/builders": "^0.12.0",
+    "@discordjs/builders": "^1.10.0",
     "@foxxie/fetch": "0.0.1",
     "@foxxie/stardrop": "^0.0.0",
     "@ruffpuff/utilities": "^4.0.0",
