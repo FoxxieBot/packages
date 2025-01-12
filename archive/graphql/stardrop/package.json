@@ -13,25 +13,25 @@
     "changelog": "rm -f CHANGELOG.md && touch CHANGELOG.md && git cliff --prepend ./CHANGELOG.md -l -c ./cliff.toml -r ../../ --include-path 'graphql/stardrop/*'"
   },
   "devDependencies": {
-    "@foxxie/eslint-config": "0.0.0",
-    "@graphql-codegen/cli": "2.6.2",
+    "@foxxie/eslint-config": "0.0.2",
+    "@graphql-codegen/cli": "2.16.5",
     "@graphql-codegen/typescript": "2.4.7",
     "@graphql-codegen/typescript-resolvers": "2.5.4",
-    "@types/koa": "2.13.4",
-    "eslint": "8.11.0",
-    "prettier": "2.5.1",
-    "tsup": "5.12.1"
+    "@types/koa": "2.15.0",
+    "eslint": "8.57.1",
+    "prettier": "2.8.8",
+    "tsup": "5.12.9"
   },
   "dependencies": {
-    "@foxxie/fuzzysearch": "^0.0.2",
-    "apollo-server-core": "^3.6.3",
-    "apollo-server-koa": "^3.6.3",
+    "@foxxie/fuzzysearch": "^0.0.4",
+    "apollo-server-core": "^3.13.0",
+    "apollo-server-koa": "^3.13.0",
     "class-validator": "^0.13.2",
-    "graphql": "15.8.0",
-    "graphql-parse-resolve-info": "^4.12.0",
-    "koa": "^2.13.4",
-    "reflect-metadata": "^0.1.13",
+    "graphql": "15.9.0",
+    "graphql-parse-resolve-info": "^4.13.0",
+    "koa": "^2.15.3",
+    "reflect-metadata": "^0.2.2",
     "type-graphql": "^1.1.1",
-    "utility-types": "^3.10.0"
+    "utility-types": "^3.11.0"
   }
 }
