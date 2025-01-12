@@ -20,7 +20,7 @@
     "@types/koa": "2.13.4",
     "eslint": "8.11.0",
     "prettier": "2.5.1",
-    "tsup": "5.12.1"
+    "tsup": "8.3.5"
   },
   "dependencies": {
     "@foxxie/fuzzysearch": "^0.0.2",
