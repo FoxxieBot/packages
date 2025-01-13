@@ -21,7 +21,7 @@
     "dotenv": "^8.2.0",
     "foxxie": "^0.0.7-2",
     "lodash": "^4.17.21",
-    "mongoose": "^5.12.3",
+    "mongoose": "^6.13.5",
     "novelcovid": "^3.0.0"
   }
 }
