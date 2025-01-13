@@ -101,7 +101,7 @@
         "moment-timezone": "^0.5.34",
         "mongodb": "^3.7.3",
         "skia-canvas": "^0.9.29",
-        "typeorm": "^0.2.45"
+        "typeorm": "^0.3.0"
     },
     "devDependencies": {
         "@foxxie/eslint-config": "0.0.0",
